@@ -2,13 +2,13 @@ body {
   background-color:white;
 }
 a {
-  color: #bf5700;
+  color: #360e73;
 }
 a:link {
-  color: #bf5700;
+  color: #360e73;
 }
 a:hover {
-  color: #bf5700;
+  color: #7e0dff;
 }
 h1 {
   font-size: 32px;
@@ -39,29 +39,31 @@ img {
 }
 
 img-circle {
-    border-radius: 50%;
+    border-radius: 20%;
 }
 
 .navbar {
-  background-color:white;
+  color: #7e0dff;
+  background-color:#7e0dff;
 }
 
 .navbar-brand {
-  color: white;
+  color: #d1b3ff;
 }
 .navbar .navbar-nav>li>a {
-  color: #bf5700;
-  background-color:white;
+  color: #d1b3ff;
+  background-color:#7e0dff;
 }
 .navbar .navbar-nav>li>a:hover {
-  color: #222;
+  color: #360e73;
   background-color:white;
 }
+
 .navbar .navbar-nav>.active>a {
-  background-color:white;
-  color: #bf5700;
+  background-color:#7e0dff;
+  color: #d1b3ff;
 }
 .navbar .navbar-nav>.active>a:hover {
-  background-color:white;
-  color: #222;
-}
+  background-color:#ffffff;
+  color: #360e73;
+}    
